@@ -1,10 +1,10 @@
 # Analysis of NYC's Dessert Sector
 Status: __Pending Review__
 ## Featured Files
-![Data Request](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/bakery_csv_retreival.ipynb)
-![Data Cleaning](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/bakery_data_cleaning_v2.ipynb)
-![Main Analysis](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/summary_analysis.ipynb)
-![Presentation](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/presentation_draft.pptx)
+* [Data Request](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/bakery_csv_retreival.ipynb)
+* [Data Cleaning](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/bakery_data_cleaning_v2.ipynb)
+* [Main Analysis](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/summary_analysis.ipynb)
+* [Presentation](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/presentation_draft.pptx)
 ## Abstract
 New York City is often crowned as one of the most diverse places on earth. With about 200,000 small businesses operating in New YorK City, its one of the most competitive places in the US to operate a business. In this compettive space, people often ask 'is it even worth opening a business in NY?'. In this exploratory analysis, I attempt to uncover what are the best business opportunities are in NYC for bakeries and desserts using yelp's API.
 ## Figures
