@@ -31,7 +31,5 @@ New York City is often crowned as one of the most diverse places on earth. With 
    * Does not account for social media presence. With emergence of reels and tiktok, some social media presence can have a significant impact on foot traffic.
    * Foodie culture: We cannot account for social media influences on a business’ reviews and review_counts
 
-## Featured files
-
 ## Task List
-
+* Bin review_counts and re-perform cluster analysis
