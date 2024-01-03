@@ -1,5 +1,5 @@
 # Analysis of NYC's Dessert Sector
-Status: __Pending Review__
+Status: __Work in Progress__
 ## Featured Files
 * [Data Request](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/bakery_csv_retreival.ipynb)
 * [Data Cleaning](https://github.com/anderoos/dv-analysis-of-nyc-bakeries/blob/main/bakery_data_cleaning_v2.ipynb)
@@ -33,3 +33,5 @@ New York City is often crowned as one of the most diverse places on earth. With 
 
 ## Task List
 * Bin review_counts and re-perform cluster analysis
+* Create interactive dashboard for DBSCAN clusters
+* Deploy using Gitpages
