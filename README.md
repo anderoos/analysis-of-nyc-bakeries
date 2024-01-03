@@ -33,5 +33,6 @@ New York City is often crowned as one of the most diverse places on earth. With 
 
 ## Task List
 * Bin review_counts and re-perform cluster analysis
+* Take a second look at DBSCAN centroids
 * Create interactive dashboard for DBSCAN clusters
 * Deploy using Gitpages
