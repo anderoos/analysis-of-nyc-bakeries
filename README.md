@@ -1,5 +1,5 @@
 # Analysis of NYC's Dessert Sector
-Status: __Work in Progress__
+Status: __Complete__
 ## Abstract
 New York City is often crowned as one of the most diverse places on earth. With about 200,000 small businesses operating in New YorK City, its one of the most competitive places in the US to operate a business. In this compettive space, people often ask 'is it even worth opening a business in NY?'. In this exploratory analysis, I attempt to uncover what are the best business opportunities are in NYC for bakeries and desserts using yelp's API.
 ## Figures
